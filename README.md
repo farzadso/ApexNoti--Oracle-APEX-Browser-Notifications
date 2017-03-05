@@ -2,7 +2,7 @@
 A simple dynamic action plugin based on browsers' Notification API
 
 ##Demo
-[ApexNoti Dynamic Action Demo - Click Here](https://apex.oracle.com/pls/apex/f?p=9468:2)
+[ApexNoti Dynamic Action Demo - Click Here](https://apex.oracle.com/pls/apex/f?p=9468:6)
 
 ##Installation
 Just import the 
