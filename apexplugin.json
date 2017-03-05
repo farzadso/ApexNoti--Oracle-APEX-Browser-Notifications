@@ -24,7 +24,7 @@
       "versions" : ["4.2", "5.0.4", "5.1"],
       "plugin" : {
         "internalName" : "COM.JAFR.APEXNOTI",
-        "type" : "dyanmic action",
+        "type" : "dynamic action",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=9468:6",
         "previewImage" : "https://raw.githubusercontent.com/farzadso/ApexNoti--Oracle-APEX-Browser-Notifications/master/animation.gif"
       }
