@@ -1,6 +1,6 @@
 {
   "name" : "ApexNoti",
-  "version" : "1.0",
+  "version" : "1.1",
   "description" : "A simple dynamic action plugin based on browsers' Notification API.",
   "keywords" : ["Javascript", "ApexNoti", "notifications", "JAFR", "dynamic"],
   "homepage" : "https://github.com/farzadso/ApexNoti--Oracle-APEX-Browser-Notifications",
